@@ -130,6 +130,10 @@ Biometric & biological data collection on commercial species (sardine, mackerel,
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 
+**Emerging Interest**
+![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Sensors](https://img.shields.io/badge/Environmental_Sensors-0077B6?style=flat-square)
 
 </div>
 

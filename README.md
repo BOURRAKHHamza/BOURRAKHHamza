@@ -105,9 +105,6 @@ Biometric & biological data collection on commercial species (sardine, mackerel,
 
 <div align="center">
 
-### 🛠️ Tech & Lab Stack
-
-<div align="center">
 
 **Bioinformatics & Structural Biology**
 ![Molecular Docking](https://img.shields.io/badge/Molecular_Docking-2E8B57?style=flat-square)

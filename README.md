@@ -87,8 +87,7 @@ In situ sampling of marine species (mussels, algae, goose barnacles); biometric 
 *Institut Pasteur — Feb 2024*
 Laboratory work within the Viral Hepatitis Unit, contributing to diagnostic and research activities.
 
-</td>
-</tr>
+
 <tr>
 <td width="50%" valign="top">
 

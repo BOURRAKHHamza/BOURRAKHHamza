@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Hamza%20Bourrakh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marine%20Biologist%20%7C%20biochemistry%20%7C%20Bioinformatician&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Hamza%20Bourrakh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marine%20Biologist%20%7C%20Biochemistry%20%7C%20Bioinformatician&descAlignY=58&descSize=18"/>
 
 <a href="https://www.linkedin.com/in/bourrakh-hamza/"><img src="https://img.shields.io/badge/-Hamza%20Bourrakh-0077B6?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:Bourrakhhamza04@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-00B4D8?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -76,6 +76,13 @@ Culture media preparation & microbiological testing of water/food samples for co
 </td>
 <td width="50%" valign="top">
 
+**🐚 Coastal Resources Prospecting**
+*INRH — Jul 2024*
+In situ sampling of marine species (mussels, algae, goose barnacles); biometric data collection to assess coastal population health & dynamics.
+
+</td>
+<td width="50%" valign="top">
+
 **🦠 Viral Hepatitis Laboratory**
 *Institut Pasteur — Feb 2024*
 Laboratory work within the Viral Hepatitis Unit, contributing to diagnostic and research activities.
@@ -85,12 +92,6 @@ Laboratory work within the Viral Hepatitis Unit, contributing to diagnostic and 
 <tr>
 <td width="50%" valign="top">
 
-**🐚 Coastal Resources Prospecting**
-*INRH — Jul 2024*
-In situ sampling of marine species (mussels, algae, goose barnacles); biometric data collection to assess coastal population health & dynamics.
-
-</td>
-<td width="50%" valign="top">
 
 **🎣 Fisheries Biological Sampling**
 *INRH, Fishing Cell — Jul 2023 – Aug 2023*
@@ -153,10 +154,10 @@ class HamzaBourrakh:
 ```
 2024 ─── 2026   MSc, Marine Environment & Bio-Resources Management — Université Hassan II (FSAC)
                 Thesis: Zebrafish as a diabetes model — sugar effects on hatching,
-                locomotor behavior & oxidative stress · Ranked 2nd in Genomics & Proteomics
+                locomotor behavior & oxidative stress ·
 
 2021 ─── 2024   BSc, Biological Sciences, Environment — Université Hassan II (FSAC)
-                Thesis: Algae as a treatment for HIV · Ranked 1st/500+ in Statistics
+                Thesis: Algae as a treatment for HIV ·
 ```
 
 ---
@@ -167,9 +168,9 @@ class HamzaBourrakh:
 
 | 🏆 Awards | 🌍 Memberships |
 |:---|:---|
-| Medal of Excellence in Extracurricular Activities — 2024 & 2025 | American Academy of Environmental Engineers & Scientists (AAEES) |
-| 1st Place, Moroccan Book Identification Contest — Wikimedia (2023) | Society for Conservation Biology (SCB) |
-| Ranked 2nd, Genomics & Proteomics (MSc) | European Marine Science Educators Association (EMSEA) |
+| Medal of Excellence in Extracurricular Activities — 2025 | American Academy of Environmental Engineers & Scientists (AAEES) |
+| Medal of Excellence in Extracurricular Activities — 2024| Society for Conservation Biology (SCB) |
+| 1st Place, Moroccan Book Identification Contest — Wikimedia (2023) | European Marine Science Educators Association (EMSEA) |
 
 </div>
 

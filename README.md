@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Hamza%20Bourrakh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marine%20Biologist%20%7C%20Zebrafish%20Researcher%20%7C%20Bioinformatician&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Hamza%20Bourrakh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marine%20Biologist%20%7C%20Zebrafish%20Researcher%20%7C%20Bioinformatici&biochemistryan&descAlignY=58&descSize=18"/>
 
 <a href="https://www.linkedin.com/in/bourrakh-hamza/"><img src="https://img.shields.io/badge/-Hamza%20Bourrakh-0077B6?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:Bourrakhhamza04@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-00B4D8?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=MSc+Candidate+in+Marine+Environment+%26+Bio-Resources;Studying+Zebrafish+(Danio+rerio)+as+a+Diabetes+Model;Bioinformatics+%26+Molecular+Docking+Enthusiast;Turning+Wet-Lab+Data+into+Reproducible+Science" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=MSc+Candidate+in+Marine+Environment+%26+Bio-Resources;Studying+Zebrafish+(Danio+rerio)+as+a+Diabetes+Model;Bioinformatics+%26+biochemistry+Enthusiast;Turning+Wet-Lab+Data+into+Reproducible+Science" />
 </div>
 
 ---

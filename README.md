@@ -105,19 +105,23 @@ Biometric & biological data collection on commercial species (sardine, mackerel,
 
 <div align="center">
 
+### 🛠️ Tech & Lab Stack
+
+<div align="center">
+
 **Bioinformatics & Structural Biology**
-![AutoDock](https://img.shields.io/badge/AutoDock_Vina-2E8B57?style=flat-square)
-![PyMOL](https://img.shields.io/badge/PyMOL-543A83?style=flat-square)
-![YASARA](https://img.shields.io/badge/YASARA-1B4F72?style=flat-square)
+![Molecular Docking](https://img.shields.io/badge/Molecular_Docking-2E8B57?style=flat-square)
+![QSAR Modeling](https://img.shields.io/badge/QSAR_Modeling-543A83?style=flat-square)
+![Open-Field Behavioral Testing](https://img.shields.io/badge/Open_Field_Testing-1B4F72?style=flat-square)
 ![MEGA11](https://img.shields.io/badge/MEGA11-006400?style=flat-square)
 ![Discovery Studio](https://img.shields.io/badge/Discovery_Studio-4682B4?style=flat-square)
 
 **Data Analysis & Statistics**
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GraphPad Prism](https://img.shields.io/badge/GraphPad_Prism-2E4053?style=flat-square)
-![Ocean Data View](https://img.shields.io/badge/Ocean_Data_View-005B96?style=flat-square)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=flat-square)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -126,10 +130,6 @@ Biometric & biological data collection on commercial species (sardine, mackerel,
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 
-**Emerging Interest**
-![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Sensors](https://img.shields.io/badge/Environmental_Sensors-0077B6?style=flat-square)
 
 </div>
 

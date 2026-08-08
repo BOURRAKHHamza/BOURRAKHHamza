@@ -1,73 +1,152 @@
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Hamza%20Bourrakh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marine%20Biologist%20%7C%20Zebrafish%20Researcher%20%7C%20Bioinformatician&descAlignY=58&descSize=18"/>
+
+<a href="https://www.linkedin.com/in/bourrakh-hamza/"><img src="https://img.shields.io/badge/-Hamza%20Bourrakh-0077B6?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:Bourrakhhamza04@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-00B4D8?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/SP-XD"><img src="https://img.shields.io/badge/-Casablanca%2C%20Morocco-90E0EF?style=for-the-badge&logo=googlemaps&logoColor=black"/></a>
+
 </div>
 
-# 👋 Hi, I’m **Hamza Bourrakh**
+<br>
 
-🎓 MSc Candidate in **Marine Environment & Bio-Resources Management** (Faculté des Sciences Aïn Chock, Université Hassan II)
-🌊 Passionate about **Bioinformatics, Biostatistics, Marine Biology & Environmental Conservation**
-📍 Based in **Casablanca, Morocco**
-
-[![Linkedin Badge](https://img.shields.io/badge/-Hamza%20Bourrakh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bourrakh-hamza/)
-[![Gmail Badge](https://img.shields.io/badge/-hamza%20bourrakh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Bourrakhhamza04@gmail.com)](mailto:Bourrakhhamza04@gmail.com)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=MSc+Candidate+in+Marine+Environment+%26+Bio-Resources;Studying+Zebrafish+(Danio+rerio)+as+a+Diabetes+Model;Bioinformatics+%26+Molecular+Docking+Enthusiast;Turning+Wet-Lab+Data+into+Reproducible+Science" />
+</div>
 
 ---
 
-## 🔬 About Me
+### 🧬 About Me
 
-- 🐟 Current intern at the **Health, Environment and Biotechnology Laboratory (FSAC)**, working on zebrafish (*Danio rerio*) as a diabetes model — hatching, locomotor behavior, and oxidative stress, combined with in silico molecular docking.
-- 🧬 Experience in **DNA/RNA extraction, PCR & qPCR** for foodborne pathogen detection and species authentication (ONSSA – National Office for Food Safety).
-- 🦀 Research on **invasive blue crab (*Callinectes sapidus*) ecology** and its impact on coastal biodiversity.
-- 🧫 Background in **microbiology, parasitology & food safety** at *Institut Pasteur* (bacteriology, mycology, biochemical identification).
-- 🐚 Field experience in **marine sampling & biodiversity monitoring** with *INRH* (mussels, algae, pelagic & demersal fish species).
-- 📊 Skilled in **Data Analysis, Biostatistics, Bioinformatics & Molecular Docking**.
-- 📖 President of the **FSAC Reading Club**, leading cultural & scientific outreach projects.
-- 🎨 Graphic Design Team Lead at the **FSAC University Health Club**.
-- 🌍 Member of **AAEES**, **SCB (Society for Conservation Biology)** and **EMSEA (European Marine Science Educators Association)**.
-- 🏅 Recipient of the **Medal of Excellence in Extracurricular Activities (2024 & 2025)** — Université Hassan II.
-- 🏆 **1st Place – Moroccan Book Identification Contest (2023)**, with Wikimedia Foundation & Réseau de Lecture Maroc.
+I'm a marine biology graduate student blending **wet-lab research** with **computational biology**. My current thesis uses zebrafish (*Danio rerio*) as a diabetes model, studying how sugar exposure affects hatching, locomotor behavior, and oxidative stress — combining classic developmental biology with Python-based behavioral tracking and in silico molecular docking.
 
----
-
-## 🛠️ Tools & Skills
-
-![Bioinformatics](https://img.shields.io/badge/bioinformatics-yellow?style=flat)
-![Docking](https://img.shields.io/badge/Docking-green?style=flat)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![GraphPad](https://img.shields.io/badge/GraphPad_Prism-3776AB?style=flat)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-543A83?style=flat)
-
-```dart
-// Organized Skills
-class About extends Me {
-  const mySkills = {
-    "Data_Analysis" : { "R", "RStudio", "GraphPad Prism", "Statistica", "Primer7", "Ocean Data View" },
-    "Bioinformatics" : { "MEGA11", "Sequence Alignment", "Protein Modeling", "AutoDock Vina/ADT", "PyMOL", "YASARA", "Discovery Studio" },
-    "Lab_Techniques" : { "Microbiology", "PCR/qPCR", "DNA-RNA Extraction", "Biological Sampling", "Environmental Monitoring" },
-    "Soft_Skills" : { "Leadership", "Science Communication", "Report Writing", "Academic Collaboration" }
-  };
-
-  const languages = { "Arabic", "Tamazight", "French", "English" };
-}
+```yaml
+current_focus:    Zebrafish neurodevelopment & oxidative stress biomarkers
+research_areas:   [Marine Biology, Biochemistry, Bioinformatics, Ecotoxicology]
+currently_lab:    Health, Environment & Biotechnology Laboratory, FSAC
+looking_for:      Collaborations in bioinformatics, marine conservation & data analysis
+fun_fact:         President of a 30+ session reading club 📚
 ```
 
 ---
 
-## 🎓 Education
+### 🔬 Current Research
 
-- **M.Sc. – Marine Environment & Bio-Resources Management**, Université Hassan II (FSAC), 2024–2026
-  Thesis: *Zebrafish (Danio rerio) as a model of diabetes — effects of sugars on hatching, locomotor behavior and oxidative stress*
-- **B.Sc. – Biological Sciences, Option Environment**, Université Hassan II (FSAC), 2021–2024
-  Thesis: *Algae as a treatment for HIV* — Ranked 1st out of 500+ students in Statistics
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🐟 Zebrafish as a Diabetes Model**
+*FSAC — Feb 2026 – Jul 2026*
+Breeding & in vivo exposure assays evaluating developmental responses to metabolic stress; PCR (COI) species authentication; Python-based open-field neurobehavioral tracking; in silico docking of oxidative stress biomarkers.
+
+</td>
+<td width="50%" valign="top">
+
+**🧫 Foodborne Pathogen Detection**
+*ONSSA — Aug 2025 – Oct 2025*
+DNA/RNA extraction, purification & quantification from food, animal and environmental matrices; conventional & real-time PCR (qPCR) for rapid pathogen detection.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🦀 Invasive Species Ecology**
+*FSAC — Jul 2025*
+Anatomy, feeding habits & ecological impact of the invasive blue crab (*Callinectes sapidus*) on Moroccan coastal biodiversity.
+
+</td>
+<td width="50%" valign="top">
+
+**🌊 Marine Biodiversity & Fisheries**
+*INRH — 2023 – 2024*
+Biometric sampling of pelagic & demersal species (sardine, mackerel, hake, octopus) across three Moroccan fishing ports for stock assessment.
+
+</td>
+</tr>
+</table>
 
 ---
 
-📫 Reach out for opportunities in **marine conservation, applied environmental bioinformatics & ecological data analysis**!
+### 🛠️ Tech & Lab Stack
+
+<div align="center">
+
+**Bioinformatics & Structural Biology**
+![AutoDock](https://img.shields.io/badge/AutoDock_Vina-2E8B57?style=flat-square)
+![PyMOL](https://img.shields.io/badge/PyMOL-543A83?style=flat-square)
+![YASARA](https://img.shields.io/badge/YASARA-1B4F72?style=flat-square)
+![MEGA11](https://img.shields.io/badge/MEGA11-006400?style=flat-square)
+![Discovery Studio](https://img.shields.io/badge/Discovery_Studio-4682B4?style=flat-square)
+
+**Data Analysis & Statistics**
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphPad Prism](https://img.shields.io/badge/GraphPad_Prism-2E4053?style=flat-square)
+![Ocean Data View](https://img.shields.io/badge/Ocean_Data_View-005B96?style=flat-square)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
+
+</div>
+
+```python
+class HamzaBourrakh:
+    def __init__(self):
+        self.role = "MSc Candidate — Marine Environment & Bio-Resources Management"
+        self.lab_skills = ["PCR/qPCR", "DNA-RNA extraction", "Microbiology", "Biological sampling"]
+        self.computational_skills = ["Molecular docking", "Homology modeling", "R", "Biostatistics"]
+        self.languages = ["Arabic", "Tamazight", "French", "English"]
+
+    def current_mission(self):
+        return "Decoding oxidative stress in zebrafish, one docking simulation at a time 🐟🧪"
+```
+
+---
+
+### 🎓 Education
+
+```
+2024 ─── 2026   MSc, Marine Environment & Bio-Resources Management — Université Hassan II (FSAC)
+                Thesis: Zebrafish as a diabetes model — sugar effects on hatching,
+                locomotor behavior & oxidative stress · Ranked 2nd in Genomics & Proteomics
+
+2021 ─── 2024   BSc, Biological Sciences, Environment — Université Hassan II (FSAC)
+                Thesis: Algae as a treatment for HIV · Ranked 1st/500+ in Statistics
+```
+
+---
+
+### 🏅 Recognition & Affiliations
+
+<div align="center">
+
+| 🏆 Awards | 🌍 Memberships |
+|:---|:---|
+| Medal of Excellence in Extracurricular Activities — 2024 & 2025 | American Academy of Environmental Engineers & Scientists (AAEES) |
+| 1st Place, Moroccan Book Identification Contest — Wikimedia (2023) | Society for Conservation Biology (SCB) |
+| Ranked 2nd, Genomics & Proteomics (MSc) | European Marine Science Educators Association (EMSEA) |
+
+</div>
+
+---
+
+### 📖 Beyond the Lab
+
+President of the **FSAC Reading Club** — organizing 30+ book discussions, a blood donation drive (142 donors), and a humanitarian caravan supporting 500+ students in an earthquake-affected village. Graphic Design Lead for the **FSAC University Health Club**, designing campaign visuals for 700+ students.
+
+---
+
+<div align="center">
+
+*"Understanding life at the molecular level, to better protect it at the ecosystem level."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=100&section=footer"/>
+
+</div>

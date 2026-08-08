@@ -18,13 +18,14 @@
 
 ### 🧬 About Me
 
-I'm a marine biology graduate student blending **wet-lab research** with **computational biology**. My current thesis uses zebrafish (*Danio rerio*) as a diabetes model, studying how sugar exposure affects hatching, locomotor behavior, and oxidative stress — combining classic developmental biology with Python-based behavioral tracking and in silico molecular docking.
+I'm a marine biology graduate student blending **wet-lab research** with **computational biology**. My current thesis uses zebrafish (*Danio rerio*) as a diabetes model, studying how sugar exposure affects hatching, locomotor behavior, and oxidative stress — combining classic developmental biology with Python-based behavioral tracking and in silico molecular docking. I'm also growing an interest in the **Internet of Things (IoT)**, exploring how connected sensors could enable real-time environmental and aquatic monitoring for research and conservation.
 
 ```yaml
 current_focus:    Zebrafish neurodevelopment & oxidative stress biomarkers
 research_areas:   [Marine Biology, Biochemistry, Bioinformatics, Ecotoxicology]
+emerging_interest: Internet of Things (IoT) for environmental & aquatic monitoring
 currently_lab:    Health, Environment & Biotechnology Laboratory, FSAC
-looking_for:      Collaborations in bioinformatics, marine conservation & data analysis
+looking_for:      Collaborations in bioinformatics, marine conservation, IoT & data analysis
 fun_fact:         Active member of a reading club with 30+ book discussions 📚
 ```
 
@@ -125,6 +126,11 @@ Biometric & biological data collection on commercial species (sardine, mackerel,
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
+
+**Emerging Interest**
+![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Sensors](https://img.shields.io/badge/Environmental_Sensors-0077B6?style=flat-square)
 
 </div>
 

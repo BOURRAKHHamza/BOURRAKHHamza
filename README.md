@@ -25,26 +25,26 @@ current_focus:    Zebrafish neurodevelopment & oxidative stress biomarkers
 research_areas:   [Marine Biology, Biochemistry, Bioinformatics, Ecotoxicology]
 currently_lab:    Health, Environment & Biotechnology Laboratory, FSAC
 looking_for:      Collaborations in bioinformatics, marine conservation & data analysis
-fun_fact:         President of a 30+ session reading club 📚
+fun_fact:         Active member of a reading club with 30+ book discussions 📚
 ```
 
 ---
 
-### 🔬 Current Research
+### 🔬 Research & Lab Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🐟 Zebrafish as a Diabetes Model**
-*FSAC — Feb 2026 – Jul 2026*
+*Health, Environment & Biotechnology Lab, FSAC — Feb 2026 – Jul 2026*
 Breeding & in vivo exposure assays evaluating developmental responses to metabolic stress; PCR (COI) species authentication; Python-based open-field neurobehavioral tracking; in silico docking of oxidative stress biomarkers.
 
 </td>
 <td width="50%" valign="top">
 
 **🧫 Foodborne Pathogen Detection**
-*ONSSA — Aug 2025 – Oct 2025*
+*Molecular Biology Unit, ONSSA — Aug 2025 – Oct 2025*
 DNA/RNA extraction, purification & quantification from food, animal and environmental matrices; conventional & real-time PCR (qPCR) for rapid pathogen detection.
 
 </td>
@@ -53,15 +53,47 @@ DNA/RNA extraction, purification & quantification from food, animal and environm
 <td width="50%" valign="top">
 
 **🦀 Invasive Species Ecology**
-*FSAC — Jul 2025*
-Anatomy, feeding habits & ecological impact of the invasive blue crab (*Callinectes sapidus*) on Moroccan coastal biodiversity.
+*Health, Environment & Biotechnology Lab, FSAC — Jul 2025*
+Anatomy, feeding habits & ecological impact of the invasive blue crab (*Callinectes sapidus*) on Moroccan coastal biodiversity, via dissection & gut content analysis.
 
 </td>
 <td width="50%" valign="top">
 
-**🌊 Marine Biodiversity & Fisheries**
-*INRH — 2023 – 2024*
-Biometric sampling of pelagic & demersal species (sardine, mackerel, hake, octopus) across three Moroccan fishing ports for stock assessment.
+**🧪 Bacteriology, Parasitology & Mycology**
+*Institut Pasteur — Sep 2024*
+Urinalysis (ECBU), stool cultures & parasitological tests (KOP); biochemical identification (catalase, oxidase, coagulase) and API galleries (20E/20NE).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💧 Food Safety & Environmental Microbiology**
+*Institut Pasteur — Aug 2024*
+Culture media preparation & microbiological testing of water/food samples for contamination indicators (*E. coli*, enterobacteria, molds); species ID via API 20E.
+
+</td>
+<td width="50%" valign="top">
+
+**🦠 Viral Hepatitis Laboratory**
+*Institut Pasteur — Feb 2024*
+Laboratory work within the Viral Hepatitis Unit, contributing to diagnostic and research activities.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐚 Coastal Resources Prospecting**
+*INRH — Jul 2024*
+In situ sampling of marine species (mussels, algae, goose barnacles); biometric data collection to assess coastal population health & dynamics.
+
+</td>
+<td width="50%" valign="top">
+
+**🎣 Fisheries Biological Sampling**
+*INRH, Fishing Cell — Jul 2023 – Aug 2023*
+Biometric & biological data collection on commercial species (sardine, mackerel, hake, octopus, sharks) across three Moroccan fishing ports (Casablanca, El Jadida, El Mehdia).
 
 </td>
 </tr>
@@ -139,7 +171,7 @@ class HamzaBourrakh:
 
 ### 📖 Beyond the Lab
 
-President of the **FSAC Reading Club** — organizing 30+ book discussions, a blood donation drive (142 donors), and a humanitarian caravan supporting 500+ students in an earthquake-affected village. Graphic Design Lead for the **FSAC University Health Club**, designing campaign visuals for 700+ students.
+Active member of the **FSAC Reading Club** — contributing to 30+ book discussions, a blood donation drive (142 donors), and a humanitarian caravan supporting 500+ students in an earthquake-affected village. Graphic Design Lead for the **FSAC University Health Club**, designing campaign visuals for 700+ students.
 
 ---
 

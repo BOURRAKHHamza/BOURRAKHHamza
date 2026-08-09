@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=MSc+Candidate+in+Marine+Environment+%26+Bio-Resources;Studying+Zebrafish+(Danio+rerio)+as+a+Diabetes+Model;Bioinformatics+%26+biochemistry+Enthusiast;Turning+Wet-Lab+Data+into+Reproducible+Science" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=MSc+in+Marine+Environment+%26+Bio-Resources+Management;Studying+Zebrafish+(Danio+rerio)+as+a+Diabetes+Model;Bioinformatics+%26+biochemistry+Enthusiast;Turning+Wet-Lab+Data+into+Reproducible+Science" />
 </div>
 
 ---
